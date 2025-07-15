@@ -1,5 +1,5 @@
 cd C:\Users\zh\chris619070.github.io
 git add .
-git commit -m "這次修改的說明，例如：更新首頁內容"
+git commit -m "更新首頁內容"
 git push origin main
 https://chris619070.github.io/
